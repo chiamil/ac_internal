@@ -18,7 +18,7 @@ simple c++ internal project. made it to learn how memory works & how to mess wit
 
 1.  clone
     ```sh
-    git clone [https://github.com/chiamil/ac_internal.git](https://github.com/chiamil/ac_internal.git)
+    git clone https://github.com/chiamil/ac_internal.git
     ```
 2.  open the solution
 3.  build it in 'release x86' mode
@@ -26,5 +26,5 @@ simple c++ internal project. made it to learn how memory works & how to mess wit
 ## how to use
 
 1.  start assault cube.
-2.  [e.g., "inject the .dll with your favorite injector."]
-3.  [e.g., "press 'del' to open."]
+2.  inject the .dll with your favorite injector.
+3.  press 'del' to open.
